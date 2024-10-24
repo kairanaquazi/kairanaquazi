@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, specifically NLP & anomaly detection
 - Upcoming SWE @ SpaceX
 - Former Research Mentee @ Intel Labs
-- Former AI Intern @ (blackbird.ai)[https://blackbird.ai]
+- Former AI Intern @ [blackbird.ai](https://blackbird.ai)
 - CSE Senior @ Santa Clara University '23
 - Professional Coke Coffee Drinker (I'm not addicted i swear (real (not fake)))
 
